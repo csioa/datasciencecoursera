@@ -1,2 +1,2 @@
-# datasciencecoursera
-test repo for course project
+## datasciencecoursera
+* test repo for course project
